@@ -24,16 +24,6 @@
       "id": 5,
       "name": "Update records",
       "isComplete": false
-    },
-    {
-      "name": "New todo",
-      "isComplete": true,
-      "id": 6
-    },
-    {
-      "name": "Another todo",
-      "isComplete": true,
-      "id": 7
     }
   ]
 }
