@@ -27,12 +27,12 @@
     },
     {
       "name": "New todo",
-      "isComplete": false,
+      "isComplete": true,
       "id": 6
     },
     {
       "name": "Another todo",
-      "isComplete": false,
+      "isComplete": true,
       "id": 7
     }
   ]
