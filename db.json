@@ -26,10 +26,14 @@
       "isComplete": false
     },
     {
-      "name": "das",
       "name": "New todo",
       "isComplete": false,
       "id": 6
+    },
+    {
+      "name": "Another todo",
+      "isComplete": false,
+      "id": 7
     }
   ]
 }
